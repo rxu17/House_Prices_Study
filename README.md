@@ -1,6 +1,6 @@
 # Machine Learning: Predicting House Prices
 
-# Software and Libraries
+## Software and Libraries
 - sklearn
 - numpy
 - pandas
@@ -8,7 +8,7 @@
 - python 3.6
 - matplotlib
 
-# Goal
+## Goal
 The goal of the project is to predict the sales price for each house using the best variables in Python. 
 
 The project follows through with emphasis on three main steps: 
@@ -16,7 +16,7 @@ The project follows through with emphasis on three main steps:
 - **Feature Engineering**
 - **Prediction using Regression**
 
-# Description:
+## Description:
 Housing data for houses in Ames, Iowa
 There are 79 explanatory variables (included in a data variable description txt file)
 

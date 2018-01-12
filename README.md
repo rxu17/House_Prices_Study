@@ -1,5 +1,5 @@
 # Machine Learning: Predicting House Prices
-## Detail [ipynb:](https://github.com/rxu17/House_Prices_Study/blob/757ce2eeaf6f92803f7f4f0f9dc137dcfc06cc84/House_Prices_Study.ipynb)
+## Detail [ipynb link](https://github.com/rxu17/House_Prices_Study/blob/757ce2eeaf6f92803f7f4f0f9dc137dcfc06cc84/House_Prices_Study.ipynb)
 ## Software and Libraries
 - sklearn
 - numpy
